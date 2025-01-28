@@ -1,4 +1,36 @@
-*** START OF THE PROJECT GUTENBERG EBOOK 60756 ***
+The Project Gutenberg EBook of Whitman Mission National Historic Site, by 
+Erwin N. Thompson
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: Whitman Mission National Historic Site
+       National Park Service Historical Handbook Series No. 37
+
+Author: Erwin N. Thompson
+
+Release Date: November 22, 2019 [EBook #60756]
+
+Language: English
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK WHITMAN MISSION NATIONAL HISTORIC SITE ***
+
+
+
+
+Produced by Stephen Hutcheson and the Online Distributed
+Proofreading Team at http://www.pgdp.net
+
+
+
+
+
 
                 UNITED STATES DEPARTMENT OF THE INTERIOR
                      Stewart L. Udall, _Secretary_
@@ -6,7 +38,7 @@
                          NATIONAL PARK SERVICE
                    George B. Hartzog, Jr., _Director_
 
-    [Illustration: NATIONAL PARK SERVICE · DEPARTMENT OF THE INTERIOR]
+    [Illustration: NATIONAL PARK SERVICE � DEPARTMENT OF THE INTERIOR]
 
                      HISTORICAL HANDBOOK NUMBER 37
 
@@ -52,7 +84,7 @@ this manuscript was based.
                                                                     Page
   Call from the West                                                  10
   Samuel Parker and the American Board                                13
-  “We Want You for Oregon”                                            15
+  "We Want You for Oregon"                                            15
   Those Who Answered the Call                                         18
   The Oregon Country                                                  19
   The Trip West                                                       25
@@ -77,20 +109,20 @@ _Waiilatpu is the site of the mission founded among the Cayuse Indians
 in 1836 by Marcus and Narcissa Whitman. After 11 years of ministering to
 the Indians and assisting emigrants on the Oregon Trail, these
 missionaries were killed and their mission destroyed by the Indians whom
-they sought to help. The Whitmans’ story of devotion, nobility, and
+they sought to help. The Whitmans' story of devotion, nobility, and
 courage places them high among the pioneers who settled the Far West._
 
 
-In 1836 five people—Dr. Marcus and Narcissa Whitman, the Reverend Henry
-and Eliza Spalding, and William H. Gray—successfully crossed the North
+In 1836 five people--Dr. Marcus and Narcissa Whitman, the Reverend Henry
+and Eliza Spalding, and William H. Gray--successfully crossed the North
 American continent from New York State to the largely unknown land
-called Oregon. At Waiilatpu and Lapwai, among the Cayuse and Nez Percé
+called Oregon. At Waiilatpu and Lapwai, among the Cayuse and Nez Perc�
 Indians, they founded the first two missions on the Columbia Plateau.
 The trail they followed, established by Indians and fur traders, was
 later to be called the Oregon Trail.
 
 Narcissa Whitman and Eliza Spalding were the first white women to cross
-the continent; the Whitmans’ baby, Alice Clarissa, was the first child
+the continent; the Whitmans' baby, Alice Clarissa, was the first child
 born of United States citizens in the Pacific Northwest. These two
 events inspired many families to follow, for they proved that homes
 could be successfully established in Oregon, a land not yet belonging to
@@ -101,7 +133,7 @@ a desperate journey to the East to save the missions from closure. On
 his return to Oregon, another chapter in the western expansion of this
 Nation was added when he successfully encouraged and helped to guide the
 first great wagon train of emigrants to the Columbia River. The
-Whitmans’ mission throughout its existence was a haven for the overland
+Whitmans' mission throughout its existence was a haven for the overland
 traveler. Medical care, rest, and supplies were available to all who
 came that way.
 
@@ -118,7 +150,7 @@ one aspect of American expansion into the vast, unknown lands of the
 Pacific Northwest.
 
     [Illustration: No-horns-on-his-head and Rabbit-skin-leggings, both
-    Nez Percé Indians, were members of the 1831 delegation to St. Louis.
+    Nez Perc� Indians, were members of the 1831 delegation to St. Louis.
     Paintings by George Catlin. SMITHSONIAN INSTITUTION]
 
     [Illustration: (Rabbit-skin-leggings)]
@@ -130,15 +162,15 @@ Pacific Northwest.
 
 
 In 1831 two neighboring tribes west of the Rocky Mountains, the Nez
-Percé and the Flathead, sent a delegation of their tribesmen to St.
-Louis, Mo., to seek the white man’s religion.
+Perc� and the Flathead, sent a delegation of their tribesmen to St.
+Louis, Mo., to seek the white man's religion.
 
 Although their understanding of Christianity was slight and confused,
 they were interested in learning about it. Their own religion was
 associated with nature, and they assigned power to natural objects.
 Their spiritual goal was to attune themselves with nature so that they
 might acquire power that would make them successful in war or hunting.
-They sought this white man’s religion because, to their minds, it
+They sought this white man's religion because, to their minds, it
 explained the great power possessed by the whites; if they could acquire
 Christianity, it would increase the power they already had.
 
@@ -147,7 +179,7 @@ of Indian Affairs, who had passed through their country more than 25
 years earlier as one of the co-leaders of the memorable Lewis and Clark
 Expedition. Myths and legends surround this visit to St. Louis, and the
 complete story will probably never be known. Yet, it seems probable that
-they sought the white man’s “Book of Heaven” and teachers to show them
+they sought the white man's "Book of Heaven" and teachers to show them
 how to read and write.
 
 Their visit probably would have passed unnoticed had not a man named
@@ -161,10 +193,10 @@ He told how Clark had held a weighty theological discussion with the
 Indians, despite the fact that they could not speak English and no
 interpreter could be found at the time. He claimed also to have seen the
 Indians in the city, though two of the delegation had died and the
-remaining pair had apparently departed 8 months before Walker’s arrival.
-He described them as “small in size, delicately formed, small limbed,”
+remaining pair had apparently departed 8 months before Walker's arrival.
+He described them as "small in size, delicately formed, small limbed,"
 and having flat heads. This description hardly fits the stocky,
-well-built Flathead and Nez Percé, who did not flatten their heads. The
+well-built Flathead and Nez Perc�, who did not flatten their heads. The
 famous painter of the West, George Catlin, claimed to have painted
 portraits of the two survivors of the delegation, and these likenesses
 indicate the Indians were normally developed. Disoway further flavored
@@ -182,28 +214,28 @@ Roman Catholic Order of the Society of Jesus; and the American Board of
 Commissioners for Foreign Missions, then supported by the Presbyterian,
 Congregational, and Dutch Reformed Churches.
 
-The first to respond was the Methodists’ Mission Society. In 1834 Jason
+The first to respond was the Methodists' Mission Society. In 1834 Jason
 Lee and four associates joined the Wyeth Expedition and headed for the
-Northwest. Lee did not stop in Flathead or Nez Percé country but went on
+Northwest. Lee did not stop in Flathead or Nez Perc� country but went on
 to the lower Columbia and selected a site in the beautiful Willamette
 Valley. The Methodists established their mission near a small French
 Canadian farming settlement close to present-day Salem, Oreg. These
-settlers, who originally were trappers for the Hudson’s Bay Company, had
+settlers, who originally were trappers for the Hudson's Bay Company, had
 turned to farming when the fur trade declined.
 
 Reinforced with 13 new workers in 1836 and 50 additional persons in
 1838, the Methodists began missions at The Dalles, the Clatsop Plains,
-Fort Nisqually, the Falls of the Willamette, and Chemeketa—now Salem.
+Fort Nisqually, the Falls of the Willamette, and Chemeketa--now Salem.
 
     [Illustration: Samuel Parker. WHITMAN COLLEGE]
 
 Their work among the coastal Indians was not very successful. New
 diseases brought by the whites were fatal to these tribes, and the
 number of Indians along the Willamette and lower valleys was rapidly
-declining. Also, they simply were not interested in the “Book of
-Heaven.” Those who attended services wanted to be paid for coming, for
+declining. Also, they simply were not interested in the "Book of
+Heaven." Those who attended services wanted to be paid for coming, for
 it was not these people who had asked for missionaries. Although Jason
-Lee was the first missionary, the Nez Percé and the Flatheads were still
+Lee was the first missionary, the Nez Perc� and the Flatheads were still
 awaiting a response to their call. The answer was soon to be supplied by
 another group of missionaries.
 
@@ -212,9 +244,9 @@ another group of missionaries.
 
 
 
-“I have had an interview with the Rev. Samuel Parker upon the subject of
+"I have had an interview with the Rev. Samuel Parker upon the subject of
 Missions and have determined to offer myself to the A. M. Board to
-accompany him on his mission or beyond the Rocky Mountains.”
+accompany him on his mission or beyond the Rocky Mountains."
                                                          Marcus Whitman,
                                                            Dec. 2, 1834.
 
@@ -224,7 +256,7 @@ accompany him on his mission or beyond the Rocky Mountains.”
                  _Samuel Parker and the American Board_
 
 
-Another man influenced by the Indians’ call was the Reverend Samuel
+Another man influenced by the Indians' call was the Reverend Samuel
 Parker, pastor of the Congregational Church in Middlefield, Mass. Though
 54 years of age, married, and the father of three children, Parker
 volunteered to the American Board of Commissioners for Foreign Missions
@@ -237,15 +269,15 @@ the undertaking.
 
 Knowing little more about the Pacific Northwest than its general
 direction, Parker set out in the spring of 1834; but he and two
-companions arrived at St. Louis too late to accompany the fur-traders’
+companions arrived at St. Louis too late to accompany the fur-traders'
 annual caravan to the Rockies. It was risky to undertake the trip alone,
 so Parker returned to New York to raise money and recruits for the next
 year. In December 1834 he reported to the American Board that a Dr.
 Marcus Whitman had volunteered to serve as a medical missionary.
 
 In 1835 Parker and his new recruit, Marcus Whitman, joined the
-fur-traders’ caravan and headed westward. Not until cholera had broken
-out and Dr. Whitman’s medical skill had prevented disaster in the
+fur-traders' caravan and headed westward. Not until cholera had broken
+out and Dr. Whitman's medical skill had prevented disaster in the
 caravan did the unholy traders appreciate having the missionaries in
 their group. On August 12 the party reached the fur-trading rendezvous,
 which was held that year near the junction of Horse Creek and the Green
@@ -253,39 +285,39 @@ River in Wyoming. There, once again Whitman was able to display his
 medical skill. He successfully removed a 3-inch iron arrowhead from the
 back of the famous mountain man, Jim Bridger, under the watchful eyes of
 traders, mountain men, and Indians. This exhibition of competence was
-not lost on the Nez Percé and Flathead. Parker and Whitman talked to
+not lost on the Nez Perc� and Flathead. Parker and Whitman talked to
 them and found that they were indeed anxious to have missions.
 
 To get the missions established by the next year, Whitman decided to
 return East and organize volunteers for the new field. Parker was to
-continue on to Oregon, explore for mission locations, and meet Whitman’s
+continue on to Oregon, explore for mission locations, and meet Whitman's
 party when it reached the rendezvous the next summer.
 
-Parker, traveling with the Nez Percé, reached their homeland on the
+Parker, traveling with the Nez Perc�, reached their homeland on the
 Clearwater River in present Idaho late in September. Thence he went down
 the Columbia River to Fort Vancouver, where he spent most of the winter
-with the Hudson’s Bay Company traders. During the winter and the next
+with the Hudson's Bay Company traders. During the winter and the next
 spring, he made several trips of exploration in the country between the
 Clearwater and the Willamette. In the spring of 1836, he learned that
-the Nez Percé were returning to the rendezvous by a northerly, rugged
+the Nez Perc� were returning to the rendezvous by a northerly, rugged
 route. Parker, feeling his years at last, decided to return to the
-United States by sea. Before the Indians’ departure, he wrote letters
+United States by sea. Before the Indians' departure, he wrote letters
 for them to carry to the rendezvous. Although Whitman received these
 letters, it is doubtful if they contained any information of value to
 the 1836 American Board party. While Parker was at Fort Vancouver,
 Marcus Whitman, back in New York, had been busy gathering men and money
 in order to establish the missions in the Oregon country.
 
-    [Illustration: Marcus Whitman’s certificate appointed him “an
+    [Illustration: Marcus Whitman's certificate appointed him "an
     assistant missionary to Indian tribes West of the State of
-    Missouri.” It was also necessary for the missionaries to get
+    Missouri." It was also necessary for the missionaries to get
     permission from the Secretary of War to visit the Indian lands of
     western United States.]
 
 
 
 
-                       _“We Want You for Oregon”_
+                       _"We Want You for Oregon"_
 
 
 On his return trip from the rendezvous in 1835, Whitman wrote to Rev.
@@ -297,7 +329,7 @@ against taking a bride into the wilderness.
 As it turned out, neither of the two ministers was able to go to Oregon.
 But when he arrived home, Whitman learned of a third minister, Henry
 Spalding, who had just been appointed to a mission in western Missouri.
-In answer to Whitman’s query, Spalding was willing to change his
+In answer to Whitman's query, Spalding was willing to change his
 destination to Oregon, provided that the Board approved.
 
 The year 1835 came to an end without any definite word from the American
@@ -313,7 +345,7 @@ that no children could be taken.
 In writing Greene of his lack of success in getting recruits, Whitman
 again mentioned the Spaldings as a possibility. Greene replied that the
 Spaldings were ineligible because they had a child. Whitman hastened to
-write that the Spaldings had lost their only baby. Greene’s reply to
+write that the Spaldings had lost their only baby. Greene's reply to
 this was vague. Although he did not directly state that the Spaldings
 could go, he noted that he did not know who else would be available.
 
@@ -336,16 +368,16 @@ This was enough for Whitman to act upon. He immediately went to
 Prattsburg, N. Y., to tell Henry Spalding the news. But he was too late.
 Spalding had just departed for his post in Missouri. Undismayed, Whitman
 gave chase and overtook the Spaldings on the road, reportedly
-exclaiming, “We want you for Oregon.” Henry and Eliza accepted the call
+exclaiming, "We want you for Oregon." Henry and Eliza accepted the call
 and continued on to wait for Whitman in Cincinnati. Whitman returned
 home for his wedding.
 
 On February 18, 1836, Marcus Whitman married Narcissa Prentiss. The
-ceremony closed with the hymn, “Yes, My Native Land! I Love Thee.” This
+ceremony closed with the hymn, "Yes, My Native Land! I Love Thee." This
 proved to be too emotional for the congregation. Knowing that the couple
 was leaving in the morning for distant Oregon, those present, one by
 one, faltered in the singing. By the time the last stanza was reached,
-sobs could be heard throughout the church. Only Narcissa’s voice was
+sobs could be heard throughout the church. Only Narcissa's voice was
 heard as she finished the last lines:
 
   Let me hasten
@@ -370,12 +402,12 @@ _Chariton_ for Liberty, Mo., the jumping-off place for the West. In
 Liberty they were joined by the fifth member of the party, William H.
 Gray.
 
-Marcus Whitman’s experience, gained in the preceding year on his trip to
+Marcus Whitman's experience, gained in the preceding year on his trip to
 the Rockies, together with his dedication to the purpose of the trip,
 made him the natural leader of the little group. Born in 1802 in
 Rushville, N.Y., Marcus was 8 when his father died, and the boy then
 went to live with an uncle. Following classical school, he had hoped to
-prepare for the ministry. But a lack of money and his family’s
+prepare for the ministry. But a lack of money and his family's
 disinterest in this career caused him to turn to medicine.
 
 Whitman began riding with the local doctor, and in 1825 he entered a
@@ -392,7 +424,7 @@ Narcissa Whitman was in many ways a contrast to her husband. Though he
 was sober and serious, Narcissa was animated and vivacious. Attractive
 in face and figure, endowed with a fine voice, she was a person of
 confidence and poise. Born in Prattsburg, N.Y., in 1808, Narcissa
-Prentiss attended Emma Willard’s “Female Seminary” in Troy and
+Prentiss attended Emma Willard's "Female Seminary" in Troy and
 afterwards Franklin Academy in Prattsburg. She taught school for several
 years and then applied for the mission field. In her first attempt she
 too was turned down by the Board. It did not want single women for
@@ -417,7 +449,7 @@ Born in 1807 in Kensington, Conn., Eliza Hart grew into a studious and
 deeply religious person. In appearance she was tall, dark, and coarse of
 feature and voice; but she had a quiet charm that endeared her to those
 who knew her. Of them all, Eliza was best fitted by temperament to work
-among the Indians, but even she did not realize that the Indians’ first
+among the Indians, but even she did not realize that the Indians' first
 loyalty was to themselves and not to the whites and their ways.
 
 William H. Gray, appointed to the Oregon mission as mechanic and
@@ -463,7 +495,7 @@ Simon Fraser, and David Thompson made their way overland for the British
 crown. In 1804 President Thomas Jefferson sent an expedition led by
 Meriwether Lewis and William Clark to find a route to the Pacific.
 
-    [Illustration: Narcissa Whitman’s portable writing desk and quill
+    [Illustration: Narcissa Whitman's portable writing desk and quill
     pen. OREGON HISTORICAL SOCIETY]
 
 Soon came the fur-trading companies, competing furiously for beaver
@@ -478,11 +510,11 @@ Company, obtained a virtual monopoly in that region by 1835.
                                               _text continued on page 24_
 
 
-_Narcissa Whitman’s Letters_
+_Narcissa Whitman's Letters_
 
 _Mary Walker, who was a prolific writer herself, once recorded in her
 diary a cutting remark about Narcissa Whitman spending too much time
-writing letters home. But it is from Mrs. Whitman’s detailed and
+writing letters home. But it is from Mrs. Whitman's detailed and
 fascinating letters that we get a close view of the lives of the
 missionaries in Oregon. Highly intelligent and a keen observer, Narcissa
 Whitman was able to capture the color and drama of her trip west and
@@ -490,11 +522,11 @@ life among the Indians. Although her letters increasingly recounted
 moments of melancholy and loneliness, they also disclosed a lively,
 vivacious woman who was blessed with a fine sense of humor._
 
-_Her diary—really a series of letters written while crossing the
-continent—reveals clearly a lady of charm who was interested in all
+_Her diary--really a series of letters written while crossing the
+continent--reveals clearly a lady of charm who was interested in all
 things and people who came her way. Later, in the Pacific Northwest,
 when death had taken her only child and it became clear the Cayuse were
-not interested in Christianity, Mrs. Whitman’s letters show her deep
+not interested in Christianity, Mrs. Whitman's letters show her deep
 worry over her role in the mission field. At times she despaired of her
 own worth and wished she could give her place to others. It is likely,
 however, that she did not realize her own intelligence and relatively
@@ -503,7 +535,7 @@ friend wrote after her death that the Indians considered Mrs. Whitman to
 be remote and haughty. He added that this was not her fault; it was her
 misfortune._
 
-    [Illustration: A page from one of Narcissa Whitman’s letters written
+    [Illustration: A page from one of Narcissa Whitman's letters written
     to her family while crossing the continent. It was this series of
     long, detailed letters that became famous as her diary.
      747-534 O-64-2 WHITMAN COLLEGE]
@@ -516,15 +548,15 @@ misfortune._
 Dearest Mother. We commenced our journey to Walla Walla July 18th 1825.
 Under the protection of Mr. McLeod, & his company. Came ten miles, in a
 southwestern direction. The Flat Head or Nez Perce Indians & some lodges
-of the Snake tribe, accompanying us to Port Half White—they are with us,
-we shall make but one camp in a day. On the 19^th we did not move at
+of the Snake tribe, accompanying us to Port Half White--they are with
+us, we shall make but one camp in a day. On the 19^th we did not move at
 all. 20^th Came twelve miles in the same direction, as on the 18^th over
 many steep & high mountains. On the 21^st our course was southeast in
 the morning. Traveled fifteen miles. Yesterday the 22^d was a tedious
-day to us, we started about nine o’clock And rode untill half past four,
+day to us, we started about nine o'clock And rode untill half past four,
 PM. Came twenty one miles. Had two short showers in the afternoon which
 cooled the air considerably, before this, the heat was oppressive. I
-thought of Mother’s bread & butter many times are as any hungry child
+thought of Mother's bread & butter many times are as any hungry child
 would, but did not find it on the way. I fancy pork & potatoes would
 relish extremely well. Have been living on fresh meat for two months
 exclusively. Am cloyed with it. I do not know how I shall endure this
@@ -532,7 +564,7 @@ part of the journey. Find it much harder to make one camp in the day,
 than we did to make two, while with Fish for our dinner and two hours
 rest in the heat of the day, prepared us for a lengthy ride in the
 afternoon. Our ride to day has not been so fatiguing or lengthy as
-yesterday. Rode from nine o’clock AM. until one o’clock PM in the same
+yesterday. Rode from nine o'clock AM. until one o'clock PM in the same
 direction, south west as yesterday. Felt a calm and peaceful state of
 mind all day. How sweet communion with him who delights to dwell with
 the humble & contrite heart, in heart. Especial in the morning I had a
@@ -542,7 +574,7 @@ would bless them_
 
                                                  _continued from page 20_
 
-But the giant of all the trading firms was the Hudson’s Bay Company.
+But the giant of all the trading firms was the Hudson's Bay Company.
 Growing steadily larger, it merged with the North West Company in 1821
 and thereby inherited the fur wealth of the Oregon Country.
 
@@ -553,25 +585,25 @@ far north as the 49th parallel. But Britain was not willing to give up
 its interests on the lower Columbia. In 1818 the two countries agreed to
 a temporary arrangement for joint occupation of the whole area. Citizens
 and subjects of the two nations could enter the Oregon Country without
-affecting either nation’s claims. The United States also reached
+affecting either nation's claims. The United States also reached
 agreements with Spain and Russia that resulted in these two countries
 surrendering all claims to the land between California and Alaska.
 
-    [Illustration: Alfred Jacob Miller’s painting of the first Fort
+    [Illustration: Alfred Jacob Miller's painting of the first Fort
     Laramie. In 1836 it was still called Fort William.]
 
-Despite the joint-occupation agreement, the Hudson’s Bay Company was in
+Despite the joint-occupation agreement, the Hudson's Bay Company was in
 almost complete control of Oregon after 1821. The United States,
 however, was able to keep alive its claims through the activities of
 some of its more colorful citizens. In 1828 the magnificent trailblazer
 Jedediah Smith visited Fort Vancouver, the Columbia headquarters of the
-Hudson’s Bay Company. A few years later Capt. Benjamin Bonneville
+Hudson's Bay Company. A few years later Capt. Benjamin Bonneville
 explored and trapped the western slopes of the Rockies. In 1832 and 1834
 Nathaniel Wyeth attempted unsuccessfully to establish a permanent
 foothold on the Columbia River.
 
 This was the Oregon Country to which the missionaries came. Other than
-the scattered Hudson’s Bay forts and a handful of settlers near Fort
+the scattered Hudson's Bay forts and a handful of settlers near Fort
 Vancouver, the vast land was empty except for the transient trappers
 and, of course, the Indians.
 
@@ -592,47 +624,47 @@ River and the Loup Fork in Nebraska on May 26.
 Traveling 15 to 20 miles a day, the caravan crossed the dusty plains
 toward Fort Laramie. There the missionaries left the heavy wagon and,
 discarding excess baggage, repacked their goods on animals. They decided
-to take Spalding’s light wagon as far as they possibly could.
+to take Spalding's light wagon as far as they possibly could.
 
 On July 4 the caravan crossed the Continental Divide at South Pass and,
-2 days later, reached that year’s fur-trapper rendezvous on the Green
+2 days later, reached that year's fur-trapper rendezvous on the Green
 River, near Daniel, Wyo. While Narcissa enjoyed the excitement and
 tumult of the colorful affair, the quieter Eliza concentrated on
-learning the Indians’ languages.
+learning the Indians' languages.
 
-Dismayed by Parker’s failure to return to the rendezvous, the
-missionaries were relieved by the unexpected arrival of two Hudson’s Bay
+Dismayed by Parker's failure to return to the rendezvous, the
+missionaries were relieved by the unexpected arrival of two Hudson's Bay
 Company traders, John McLeod and Thomas McKay. Guided by these two
 experienced men, the missionaries set out on the 700-mile journey
 through sagebrush, desert, canyons, and mountains to the Columbia.
-Stopping at Nathaniel Wyeth’s Fort Hall only overnight, the party moved
+Stopping at Nathaniel Wyeth's Fort Hall only overnight, the party moved
 westward along the south bank of the Snake River. The wagon finally
 broke down, and the men had to convert it into a two-wheeled cart. Two
-weeks later on August 19, they reached Fort Boise, a Hudson’s Bay
+weeks later on August 19, they reached Fort Boise, a Hudson's Bay
 Company post on the Snake River.
 
 No wagon or cart had ever come this far west before, but here Whitman
 and Spalding were finally forced to abandon their cart. After a few
-days’ rest, the party moved on. Following the Powder River and crossing
+days' rest, the party moved on. Following the Powder River and crossing
 the beautiful Grande Ronde Valley, the missionaries reached the rugged,
 twisted Blue Mountains. Riding ahead to the crest, the Whitmans had
 their first view of the Columbia valley with majestic Mount Hood on the
 far horizon.
 
 On the morning of September 1, the Whitmans excitedly galloped up to the
-gate of Fort Walla Walla, the Hudson’s Bay Company post on the Columbia.
+gate of Fort Walla Walla, the Hudson's Bay Company post on the Columbia.
 They were met by Pierre Pambrun, the chief trader, who was to be their
 near and good neighbor for the next few years. Two days later the
 Spaldings arrived with the livestock.
 
 Needing household goods and wanting to meet the Chief Factor, Dr. John
-McLoughlin, the party decided to go to the Hudson’s Bay Company western
+McLoughlin, the party decided to go to the Hudson's Bay Company western
 headquarters at Fort Vancouver, more than 200 miles down the Columbia.
 Reaching the fort by boat on September 12, the missionaries completed
 their long journey 207 days after their departure from Angelica, N. Y.
 On the move for more than 6 months, and traveling more than 3,000 miles,
 Narcissa Whitman and Eliza Spalding had crossed the North American
-Continent—the first white women to do so.
+Continent--the first white women to do so.
 
 
 
@@ -641,28 +673,28 @@ Continent—the first white women to do so.
 
 
 The stern but kindly Dr. McLoughlin gave the missionaries a warm
-welcome. He appreciated the significance of the ladies’ successful
+welcome. He appreciated the significance of the ladies' successful
 journey across the continent. While complimenting them on this, he must
 have thought to himself that they were but the vanguard of many American
 families to follow.
 
-    [Illustration: Dr. John McLoughlin, Chief Factor of the Hudson’s Bay
+    [Illustration: Dr. John McLoughlin, Chief Factor of the Hudson's Bay
     Company in Oregon, exercised vast sway over an area extending from
     British Columbia to western Montana. Physically a giant and of an
-    imperious nature, he was to the Indians “The White Eagle.” On their
-    arrival at Fort Vancouver Narcissa wrote: “I feel I have come to a
-    father’s house indeed, even in a strange land has the Lord raised up
-    friends.” OREGON HISTORICAL SOCIETY]
+    imperious nature, he was to the Indians "The White Eagle." On their
+    arrival at Fort Vancouver Narcissa wrote: "I feel I have come to a
+    father's house indeed, even in a strange land has the Lord raised up
+    friends." OREGON HISTORICAL SOCIETY]
 
     [Illustration: Fort Vancouver, sketched by Henry J. Warre in 1845.
     WASHINGTON STATE HISTORICAL SOCIETY]
 
-To the surprise of the party, McLoughlin’s stores contained most of the
+To the surprise of the party, McLoughlin's stores contained most of the
 articles needed to establish the missions: household furniture,
 clothing, building supplies, books and provisions; all were for sale.
 Narcissa wrote home that it was not necessary to bring anything from the
-East, for everything could be found at Fort Vancouver, “the New York of
-the Pacific Ocean.”
+East, for everything could be found at Fort Vancouver, "the New York of
+the Pacific Ocean."
 
 While the ladies enjoyed the hospitality of the fort, Whitman, Gray, and
 Spalding went back up the Columbia to select their mission sites. With
@@ -676,7 +708,7 @@ If McLoughlin had been cool toward the missionaries, such behavior could
 have been justified. The influx of Americans that was bound to follow
 would inevitably change Oregon. British control would then be threatened
 and fur trade profits reduced. Nevertheless, McLoughlin, Pambrun, and
-other Hudson’s Bay Company people extended a helping hand to the
+other Hudson's Bay Company people extended a helping hand to the
 missionaries. Such success as the missions had in the Pacific Northwest
 was due, in good part, to the assistance they received from the company.
 
@@ -690,18 +722,18 @@ On the north bank of the Walla Walla River, 22 miles upstream from its
 junction with the Columbia, Marcus Whitman selected the site of his
 mission on the lands of the Cayuse Indians. Henry Spalding picked a site
 110 miles to the east on Lapwai Creek, 2 miles from its confluence with
-the Clearwater; the Nez Percé tribe at last had a missionary.
+the Clearwater; the Nez Perc� tribe at last had a missionary.
 
-Whitman selected _Wai-i-lat-pu_, “the place of the rye grass,” for
+Whitman selected _Wai-i-lat-pu_, "the place of the rye grass," for
 several reasons. Close to Fort Walla Walla at the mouth of the river,
 Waiilatpu was near both a source of supply and the main travel route
 between Canada and Fort Vancouver. Whitman must have realized, too, that
 its location was on the line of march between South Pass in the Rockies
 and the Columbia, the trail that Americans would surely follow. In
-addition, it was the home of the Cayuse Indians, a “heathen” tribe that
+addition, it was the home of the Cayuse Indians, a "heathen" tribe that
 in the minds of the missionaries needed to be saved as much as any.
 
-For his wife’s arrival from Fort Vancouver, Whitman built a crude log
+For his wife's arrival from Fort Vancouver, Whitman built a crude log
 lean-to as a shelter against the oncoming winter. When Narcissa arrived
 at Waiilatpu on December 10, she found that the little structure had two
 bedrooms, a kitchen, a pantry, and a fireplace, but was still without
@@ -711,7 +743,7 @@ Gray, and their helpers worked steadily on the main part of this first
 house.
 
     [Illustration: This photograph of the Spalding mission cabin at
-    Lapwai—now called Spalding—was taken in 1900.]
+    Lapwai--now called Spalding--was taken in 1900.]
 
 Because of the scarcity of suitable timber, the main part of the
 one-and-a-half story house was made of sun-dried adobe bricks. With
@@ -731,7 +763,7 @@ ground. Work was begun on the new T-shaped mission house in 1838. A few
 years later, the abandoned first house was torn down, and its adobe
 bricks were used to build a blacksmith shop.
 
-During the first year, the missionaries depended on the Hudson’s Bay
+During the first year, the missionaries depended on the Hudson's Bay
 Company for provisions to tide them over to their first harvest. From
 Fort Vancouver, Fort Walla Walla, and Fort Colville (in northeastern
 Washington), they bought pork, flour, butter, corn, and potatoes.
@@ -749,28 +781,28 @@ made. Also in that first year, both Spalding and Whitman planted apple
 orchards.
 
 At the same time, the missionaries began their efforts among the
-Indians. Both men encouraged the Cayuse and Nez Percé to start
+Indians. Both men encouraged the Cayuse and Nez Perc� to start
 cultivation of the soil. Although the Cayuse had an epidemic of sickness
 at this time, some of the families did plant crops before departing for
 the hill valleys to dig camas bulbs in the early summer of 1837. Whitman
-was greatly encouraged by this hesitant start. He wrote: “When they have
-plenty of food they will be little disposed to wander.” He greatly
+was greatly encouraged by this hesitant start. He wrote: "When they have
+plenty of food they will be little disposed to wander." He greatly
 desired to lead them from their nomadic ways and to have them establish
 settled communities. But the Indians lacked skills and tools, and the
 results of their farming were far less than either their enthusiasm or
-the missionaries’ expectations.
+the missionaries' expectations.
 
 Both stations also began educational, spiritual, and medical work.
 Spalding and Whitman were preachers, teachers, doctors, and farmers; and
 Narcissa and Eliza assisted them in all these phases of their work.
 
-Since the Nez Percé tongue was understood by both tribes, it was used as
+Since the Nez Perc� tongue was understood by both tribes, it was used as
 the language of instruction at both stations. This meant that only one
 alphabet had to be devised and that the same written material could be
 used at both missions. Henry and Eliza Spalding made the most progress
 in mastering the difficult Indian tongue, and they took the lead in
 forming the alphabet and translating material. However, by the autumn of
-1837 Marcus and Narcissa had learned enough Nez Percé to begin their
+1837 Marcus and Narcissa had learned enough Nez Perc� to begin their
 school.
 
                                               _text continued on page 34_
@@ -778,10 +810,10 @@ school.
 
 
 
-_Nez Percé_
+_Nez Perc�_
 
-_The Nez Percé Indians called themselves the Nimipu, “The People.” Lewis
-and Clark, the first whites to travel through the Nez Percé country,
+_The Nez Perc� Indians called themselves the Nimipu, "The People." Lewis
+and Clark, the first whites to travel through the Nez Perc� country,
 called them by two names, the Chopunnish and the Pierced Nose Indians.
 But available records indicate that very few, if any, of these Indians
 pierced their noses. Such a custom was common with the Pacific Coast
@@ -789,9 +821,9 @@ tribes who decorated their noses with sea shells._
 
 _Within a few years after Lewis and Clark traveled through present-day
 Idaho, some unknown person, probably a French-Canadian trapper, changed
-Pierced Nose to Nez Percé and so the name has come down to us today. The
-accent over the final “e” is no longer pronounced; Nez is pronounced as
-it looks, Percé is pronounced “purse.” Though some writers no longer use
+Pierced Nose to Nez Perc� and so the name has come down to us today. The
+accent over the final "e" is no longer pronounced; Nez is pronounced as
+it looks, Perc� is pronounced "purse." Though some writers no longer use
 the accent, its usage is considered to be correct by most._
 
     [Illustration: Narcissa sent this floor plan of the mission house to
@@ -813,7 +845,7 @@ Although Whitman was the trained doctor, Spalding also administered to
 the sick. At first, the Indians were receptive to white medicine; but it
 was medicine that was later to become a major issue of contention
 between the Indians and the missionaries. For the time being, however,
-an encouraging start had been made. The Nez Percé seemed truly happy to
+an encouraging start had been made. The Nez Perc� seemed truly happy to
 have the Spaldings in their midst, while the Cayuse, though less
 enthusiastic, accepted the Whitmans at Waiilatpu. What were these people
 like, whom man and wife had come 3,000 miles to convert and civilize?
@@ -826,7 +858,7 @@ like, whom man and wife had come 3,000 miles to convert and civilize?
 
 The Cayuse tribe numbered little more than 400 when the Whitmans settled
 among them. Located principally on the upper Walla Walla and Umatilla
-Rivers, they had many contacts with their neighbors, the Nez Percé,
+Rivers, they had many contacts with their neighbors, the Nez Perc�,
 Walla Walla, and Umatilla Indians. They were related to these tribes
 through marriage and through a common culture. Originally of a different
 language family than the surrounding tribes, the Cayuse were by 1836 an
@@ -845,7 +877,7 @@ experienced hunters or warriors. In addition, each band had a group of
 elders who offered advice and, to some extent, managed the common
 affairs of the band under the direction of the chief.
 
-Like the Nez Percé, the Cayuse were adept at selective horse breeding.
+Like the Nez Perc�, the Cayuse were adept at selective horse breeding.
 Large horse herds enriched the tribe and gave it power that far exceeded
 its small size. The horses also gave these Indians great mobility. In
 the appropriate seasons, they crossed the mountains to the east to hunt
@@ -922,10 +954,10 @@ wives were generally more faithful than those of the coast Indians.
 
 The Cayuse and other tribes of the Columbia Plateau made their first
 contact with Christianity through fur traders. Many of the employees of
-the Hudson’s Bay Company were Roman Catholics—French Canadians and
+the Hudson's Bay Company were Roman Catholics--French Canadians and
 Iroquois. Although the company did not at first bring priests into
 Oregon for its employees, the Indians learned a little about the new
-faith from these Hudson’s Bay men. Also, the Hudson’s Bay Company sent a
+faith from these Hudson's Bay men. Also, the Hudson's Bay Company sent a
 few Indian boys to an Anglican mission school at the Red River
 Settlement in Canada.
 
@@ -955,7 +987,7 @@ adjust themselves to the primitive land.
 
 Their first, short winter at Waiilatpu passed swiftly for the
 missionaries. But by summer a dissatisfied and restless William Gray
-left Oregon, without Whitman’s knowledge but with Spalding’s approval,
+left Oregon, without Whitman's knowledge but with Spalding's approval,
 to visit the East. Gray was unhappy with his position of mechanic and
 helper to the mission. He was ambitious to become a missionary in his
 own right, but neither Whitman nor Spalding felt he was qualified for
@@ -975,7 +1007,7 @@ by a clashing of strong personalities. One thing the new missionaries
 agreed upon, however, was that none of them wished to be assigned to the
 same station as William Gray.
 
-Upon the new missionaries’ arrival at Waiilatpu, a meeting was held to
+Upon the new missionaries' arrival at Waiilatpu, a meeting was held to
 decide a course for the future. Agreement was soon reached on the
 composition of the stations. The Grays were to join the Spaldings at
 Lapwai. The Smiths and Cornelius Rogers were to stay with the Whitmans.
@@ -984,13 +1016,13 @@ along best, were to open a new station to the north among the Spokan
 Indians near Fort Colville. But these plans were to be changed in part.
 
 Walker and Eells visited the Spokan tribe that autumn and selected a
-site at Tshimakain (“the place of springs”). But winter was close at
+site at Tshimakain ("the place of springs"). But winter was close at
 hand, and they returned to Waiilatpu to await spring. The Grays went to
 Lapwai, where Spalding and Gray quarreled throughout the winter. At
-Waiilatpu, the Whitmans’ little house was crowded to an uncomfortable
+Waiilatpu, the Whitmans' little house was crowded to an uncomfortable
 degree. Although the new mission house was far enough along for the
 Smiths to move into it in December, the first house then had to make
-room for the arrival of Mary Walker’s first son.
+room for the arrival of Mary Walker's first son.
 
 Such crowded conditions were to lead to severe irritations before the
 winter was over. The diaries and the letters home show that hurt
@@ -1007,9 +1039,9 @@ cooperation. The Walkers and Eellses left for Tshimakain, and Whitman
 and Smith patched up their relations. Nevertheless, they did separate;
 but it was the Smiths who left. Asa and his wife moved to Kamiah, 50
 miles up the Clearwater from Spalding, where they began a new mission
-among the Nez Percé. By the summer of 1839 there were four American
+among the Nez Perc�. By the summer of 1839 there were four American
 Board stations in Oregon: Waiilatpu among the Cayuse; Lapwai and Kamiah
-among the Nez Percé, and Tshimakain in the country of the Spokan. Of
+among the Nez Perc�, and Tshimakain in the country of the Spokan. Of
 these, the one most fully developed and the one destined to be the
 center for the Oregon field was Waiilatpu.
 
@@ -1024,13 +1056,13 @@ Whitman that work on the new mission house had to be speeded up.
 Fortunately, he was able to hire Asahel Munger, who was a skilled
 carpenter. Munger had come out to Oregon as an independent missionary
 only to find that a person could not be independent in that vast,
-unsettled country. He eagerly accepted Whitman’s offer.
+unsettled country. He eagerly accepted Whitman's offer.
 
 The attractive, substantial mission house was built of the same
 materials as the first house. The new, T-shaped building had a wooden
 frame, walls of adobe bricks, and a roof of poles, straw, and earth. The
 walls were smoothed and whitewashed with a solution made from river
-mussel shells. Later, enough paint was acquired from the Hudson’s Bay
+mussel shells. Later, enough paint was acquired from the Hudson's Bay
 Company to paint the doors and window frames green, the interior
 woodwork gray, and the pine floors yellow. The main section of the house
 was a story-and-a-half high with three rooms on the ground floor and
@@ -1051,9 +1083,9 @@ wing.
 _The Mission Press_
 
 _In 1837 Henry Spalding became the first missionary to try writing a
-book in the Nez Percé language. But it was soon discovered that the
-alphabet devised by him was not adaptable to the Indians’ tongue and
-this 72-page “primer” was never printed._
+book in the Nez Perc� language. But it was soon discovered that the
+alphabet devised by him was not adaptable to the Indians' tongue and
+this 72-page "primer" was never printed._
 
 _The next year, having received a new printing press themselves, the
 American Board missionaries in Hawaii (then called the Sandwich Islands)
@@ -1070,27 +1102,27 @@ pages._
 
 _Between 1839 and 1845 a total of nine books were printed. The most
 elaborate of these was the Gospel according to St. Matthew turned out in
-Nez Percé by Spalding. All but one of the books were printed in the Nez
-Percé language; that one was a 16-page primer in Spokan translated by
+Nez Perc� by Spalding. All but one of the books were printed in the Nez
+Perc� language; that one was a 16-page primer in Spokan translated by
 Elkanah Walker, the copies being stitched, pressed, and bound by his
 wife, Mary. All these imprints are now quite rare, and of one only a
-single copy is known to exist. This is the Nez Percé Laws, drawn up by
+single copy is known to exist. This is the Nez Perc� Laws, drawn up by
 Indian Agent Elijah White in 1842._
 
-_Reducing the Nez Percé language to writing was not an easy task. Asa
+_Reducing the Nez Perc� language to writing was not an easy task. Asa
 Smith, the best linguist in the group, wrote:_
 
-_“[The] number of words in the language is immense & their variations
+_"[The] number of words in the language is immense & their variations
 are almost beyond description. Every word is limited & definite in its
 meaning & the great difficulty is to find terms sufficiently general.
-Again the power of compounding words is beyond description.” But even as
+Again the power of compounding words is beyond description." But even as
 he struggled with this problem, Smith was convinced of the necessity of
-books: “We must have books in the native language, schools, & the
-Scriptures translated, or we are but beating the air....”_
+books: "We must have books in the native language, schools, & the
+Scriptures translated, or we are but beating the air...."_
 
 _By 1846 the missionaries had become pessimistic about their progress in
 publishing. The amount of effort required for just a few pages was
-tremendous. Their best linguists—Smith and Cornelius Rogers—were no
+tremendous. Their best linguists--Smith and Cornelius Rogers--were no
 longer with the mission. The Indians were not as receptive to the
 printed word as the missionaries had hoped. In that year the press was
 moved from Lapwai to The Dalles, and this first publishing venture came
@@ -1104,7 +1136,7 @@ the first pages ever printed in the Oregon Country._
 
     [Illustration: (uncaptioned)]
 
-    [Illustration: Page from _Nez Percé Laws_ printed by Henry Spalding
+    [Illustration: Page from _Nez Perc� Laws_ printed by Henry Spalding
     on the mission press. WHITMAN COLLEGE]
 
 
@@ -1157,7 +1189,7 @@ Although a blacksmith shop and a gristmill had been erected at Lapwai to
 serve all the stations, it became evident to Whitman that the central
 location of Waiilatpu required similar facilities there. In 1841 the
 blacksmith equipment was moved from Lapwai, and a small, adobe shop, 16
-by 30 feet, was built half-way between the mission house and Gray’s
+by 30 feet, was built half-way between the mission house and Gray's
 residence. Its adobe bricks were taken from the first house, which was
 torn down at this time. A corral was also built near this shop.
 
@@ -1185,7 +1217,7 @@ of sawing. Physically, Waiilatpu was fast becoming the most substantial
 and comfortable of all the stations. From time to time, the other
 missionaries were just a shade envious of the Whitmans.
 
-As the missionaries carried their work into the 1840’s, they continued
+As the missionaries carried their work into the 1840's, they continued
 their efforts among the Indians. Whitman had his greatest success in
 teaching them the rudiments of agriculture. In 1843 he wrote that about
 50 Indians had started farms, each cultivating from a quarter of an acre
@@ -1193,7 +1225,7 @@ to three or four. The Cayuse also became interested in acquiring cattle,
 and by 1845 nearly all possessed the beginnings of a herd.
 
 Much slower progress was made in education and religious instruction. To
-the Whitmans’ disappointment, the Cayuse became less and less interested
+the Whitmans' disappointment, the Cayuse became less and less interested
 in learning the principles of Christianity. The demands made of them
 were too great for their simple and seminomadic way of life. Then, too,
 the Whitmans found they had less and less time to devote to Indian
@@ -1203,12 +1235,12 @@ emigrant trains from the United States demanded much time and energy
 from the Whitmans. Waiilatpu became not only an Indian mission but also
 an important station on the Oregon Trail.
 
-At Lapwai, Spalding was having greater success among the Nez Percé and
+At Lapwai, Spalding was having greater success among the Nez Perc� and
 was able to convert several important Indian leaders. In 1839 he
 obtained a printing press from the American Board mission in Hawaii and
-printed parts of the Bible in the Nez Percé language. Both he and Asa
+printed parts of the Bible in the Nez Perc� language. Both he and Asa
 Smith had difficulty in devising a workable alphabet. But on the second
-attempt, they contrived one that captured the sounds of the Nez Percé
+attempt, they contrived one that captured the sounds of the Nez Perc�
 tongue. At Tshimakain and Kamiah the work of teaching and converting
 Indians proved a laborious and slow task. Although they recognized the
 difficulties facing them, the missionaries clung tenaciously to the idea
@@ -1218,7 +1250,7 @@ the fertile lands of the Far West.
 Meanwhile, the signs of white migration were becoming more plentiful at
 Waiilatpu, situated as it was on the main route of travel from the East.
 One of the ways in which this movement was making itself apparent was in
-the increasing number of white children who were to be seen at Whitman’s
+the increasing number of white children who were to be seen at Whitman's
 station.
 
 
@@ -1232,12 +1264,12 @@ only child, a baby girl who was named Alice Clarissa after her two
 grandmothers. Alice was the first child born of United States citizens
 in the Pacific Northwest. Her arrival was a great joy not only to her
 parents but to the Cayuse as well. The Indians had been aware of the
-baby’s coming, and after her birth all the chiefs and elders of the
-tribe visited the house to see the _temi_ or “Cayuse girl,” as they
+baby's coming, and after her birth all the chiefs and elders of the
+tribe visited the house to see the _temi_ or "Cayuse girl," as they
 promptly named her because she was born on their lands.
 
 That autumn the Whitmans took 8-month-old Alice Clarissa on a visit to
-the Spaldings at Lapwai. It was time for Eliza Spalding’s first
+the Spaldings at Lapwai. It was time for Eliza Spalding's first
 confinement, and Dr. Whitman had come to officiate. On November 15, the
 baby arrived. The Spaldings named their daughter Eliza, after her
 mother. Back home again, little Alice Clarissa provided her parents with
@@ -1252,16 +1284,16 @@ immense. Before long, however, the Whitmans once again had children in
 their home to care for and to raise.
 
 The first of these was Helen Mar, the half-breed daughter of the famous
-mountain man, Joe Meek. Helen Mar’s Nez Percé mother had deserted Meek,
+mountain man, Joe Meek. Helen Mar's Nez Perc� mother had deserted Meek,
 and when he journeyed to Waiilatpu in 1840, he persuaded Mrs. Whitman to
 accept the care of the child. The next year, another little part-Indian
 girl was added to the Whitman household when another famous mountain
 man, Jim Bridger, sent his 6-year-old Mary Ann to the Whitmans.
 
-In 1842 two Indian women brought a “miserable-looking child, a boy
-between three and four years old,” to Narcissa and asked her to take him
+In 1842 two Indian women brought a "miserable-looking child, a boy
+between three and four years old," to Narcissa and asked her to take him
 in. This boy was also half-Indian; his Spanish father had once been an
-employee of the Hudson’s Bay Company. Narcissa tried to decline the
+employee of the Hudson's Bay Company. Narcissa tried to decline the
 responsibility, but her pity was too great. Taking the child, she named
 him after an old friend back home, David Malin. Then, when Marcus
 returned to Oregon in 1843 from his trip East, he brought with him his
@@ -1276,12 +1308,12 @@ Green River; a month later, Mrs. Sager died near what is now Twin Falls,
 Idaho. The children, benumbed by the loss of both parents, were brought
 on by the wagon train. The women of the train took turns caring for the
 baby, while Dr. Dagan, a German immigrant, drove the Sager cart with the
-other six children toward the Whitmans’ mission.
+other six children toward the Whitmans' mission.
 
-For many days, the emigrants’ wagons had been passing through Waiilatpu.
-Just before the seven orphans came, Narcissa had written home: “Here we
+For many days, the emigrants' wagons had been passing through Waiilatpu.
+Just before the seven orphans came, Narcissa had written home: "Here we
 are, one family alone, a way mark, as it were, or center post, about
-which multitudes will or must gather this winter.” On the morning the
+which multitudes will or must gather this winter." On the morning the
 children arrived Mrs. Whitman was called to the yard to greet them.
 There she witnessed a poignant scene.
 
@@ -1298,7 +1330,7 @@ mission house.
     [Illustration: An Indian woman made this doll for young Elizabeth
     Sager.]
 
-At that time Narcissa’s health was not good, and she and Marcus debated
+At that time Narcissa's health was not good, and she and Marcus debated
 that evening whether or not to take all seven orphans into their family.
 But the plight of the children resolved all doubts. The Whitmans now
 found themselves directly responsible for a family of 11 children.
@@ -1306,9 +1338,9 @@ found themselves directly responsible for a family of 11 children.
 In addition to this family, the children of the emigrant families
 stopped at the mission each autumn and often stayed for the winter. Also
 present were the children whom the Whitmans took into their school as
-boarders—such as the young lady whom Dr. Whitman had brought into the
-world, Eliza Spalding—and the two Manson boys, the half-breed sons of a
-Hudson’s Bay employee at Fort Walla Walla. Thus, following the death of
+boarders--such as the young lady whom Dr. Whitman had brought into the
+world, Eliza Spalding--and the two Manson boys, the half-breed sons of a
+Hudson's Bay employee at Fort Walla Walla. Thus, following the death of
 Alice Clarissa, there was always a large number of youthful voices at
 Waiilatpu, as indeed there was, to a lesser degree, at the other
 missions.
@@ -1324,14 +1356,14 @@ continually sent home requests for lay assistants to help convert the
 Indian tribes. Despite these pleas, no additional reinforcements were
 sent to Oregon after 1838. On the contrary, the mission stations were
 reduced from four to three. Discouraged, lonely, and increasingly
-concerned over his wife’s health, Asa Smith left Kamiah in 1841 and
+concerned over his wife's health, Asa Smith left Kamiah in 1841 and
 sailed for the Hawaiian Islands. From then until 1847 only Waiilatpu,
 Lapwai, and Tshimakain remained in operation.
 
 In western Oregon the Methodist missions, established with the arrival
 of Jason Lee in 1834, were suffering difficulties of their own. Faced
 with a rapidly diminishing number of Indians, the Methodists began to
-concentrate in the early 1840’s on establishing churches among the new
+concentrate in the early 1840's on establishing churches among the new
 white settlements that were rapidly filling the Willamette Valley. In
 1847 the Methodists offered to sell their remaining Indian mission,
 Waskopum at The Dalles, to the American Board. Whitman, worried that
@@ -1341,20 +1373,20 @@ Alanson Hinman and his wife, from the Willamette Valley, to take charge
 of secular affairs and sent his nephew, Perrin, to live with them.
 
 As early as 1834 French Canadian employees and ex-employees of the
-Hudson’s Bay Company in Oregon had petitioned the Catholic bishop at Red
-River in western Canada for priests. At first the Hudson’s Bay Company
+Hudson's Bay Company in Oregon had petitioned the Catholic bishop at Red
+River in western Canada for priests. At first the Hudson's Bay Company
 refused to help priests come to Oregon, but in 1838 it agreed to
 transport Catholic missionaries across the Rockies provided that no
 missions were established south of the Columbia River.
 
 The Bishop of Quebec accepted responsibility for sending Catholic
-missionaries to the Pacific Northwest. As soon as the Hudson’s Bay
+missionaries to the Pacific Northwest. As soon as the Hudson's Bay
 Company agreed to help with transportation, the bishop sent the Reverend
 Francis N. Blanchet to be vicar-general of the new area. Joined at Red
 River by Father Modeste Demers, Blanchet arrived at Fort Vancouver late
 in 1838.
 
-Because of the company’s restriction, Blanchet was careful not to
+Because of the company's restriction, Blanchet was careful not to
 establish mission stations south of the Columbia. Before long, however,
 the restriction was removed, and a Catholic mission was established at
 French Prairie in the Willamette Valley.
@@ -1364,9 +1396,9 @@ French Prairie in the Willamette Valley.
                                    1834-1847]
 
   LEGEND:
-    (A)—American Board
-    (C)—Catholic
-    (M)—Methodist
+    (A)--American Board
+    (C)--Catholic
+    (M)--Methodist
   Fort Langley
   Victoria (C)
   Whidby Island (C) 1840
@@ -1380,15 +1412,15 @@ French Prairie in the Willamette Valley.
   Willamette R.
   The Dalles (A) 1811
   Clackamas (C) 1841
-  St. Paul’s (C) 1839
+  St. Paul's (C) 1839
   St. Louis (C) 1844
   Fort Colville (C) 1838
-  St. Paul’s (C) 1845
+  St. Paul's (C) 1845
   St. Francis Regis (C) 1845
   Tshimakain (A) 1839
   Fort Okanagan (C) 1838
   St. Ignatius (C) 1845
-  St. Michael’s (C) 1844
+  St. Michael's (C) 1844
   Sacred Heart (C)
     1842
     1843
@@ -1399,9 +1431,9 @@ French Prairie in the Willamette Valley.
   St. Rose Lima (C) 1847
   Fort Walla Walla (C) 1838
   Waiilatpu (A) 1836
-  St. Ann’s (C) 1847
+  St. Ann's (C) 1847
   Lapwai (A) 1836
-  St. Mary’s (C) 1841
+  St. Mary's (C) 1841
   Kamiah (A) 1839
 
 During 1839 both Blanchet and Demers made extensive tours throughout
@@ -1410,9 +1442,9 @@ American Board station at Tshimakain, Demers learned that an American
 priest, Father Peter DeSmet, was in the Flathead country to the east.
 Father DeSmet had been sent out to Oregon by the Bishop of St. Louis in
 answer to a call similar to that which had stimulated the Protestant
-missions. In 1841 DeSmet founded St. Mary’s mission in the Bitter Root
+missions. In 1841 DeSmet founded St. Mary's mission in the Bitter Root
 Valley in present-day Montana and, in the next year, the Sacred Heart
-mission among the Coeur d’Alene Indians, in what is now Idaho.
+mission among the Coeur d'Alene Indians, in what is now Idaho.
 
 By 1842 the Canadian and American Catholic missions in Oregon were
 united under the authority of Blanchet. Soon reinforcements were
@@ -1423,7 +1455,7 @@ brother of the archbishop, A. M. A. Blanchet, was made bishop of Walla
 Walla. He arrived at Fort Walla Walla in September 1847, accompanied by
 Vicar-General J. B. A. Brouillet, six priests, and two lay brothers.
 
-The 1830’s and 1840’s were years of strong antagonisms between the
+The 1830's and 1840's were years of strong antagonisms between the
 Protestant and Catholic churches in the United States. The missionaries
 in Oregon shared in this feeling. When Marcus Whitman met Bishop A. M.
 A. Blanchet at Fort Walla Walla, he was greatly disturbed by the
@@ -1432,13 +1464,13 @@ presence of the Catholic missionaries.
     [Illustration: Peter John DeSmet, apostle to the Indians.]
 
     [Illustration: DeSmet founded Sacred Heart mission among the Coeur
-    d’Alene Indians in 1842. From Thwaites, _Early Western Travels_.]
+    d'Alene Indians in 1842. From Thwaites, _Early Western Travels_.]
 
-Bishop Blanchet proceeded to establish St. Ann’s mission among the
+Bishop Blanchet proceeded to establish St. Ann's mission among the
 Cayuse on the Umatilla River and St. Rose of Lima near the mouth of the
 Yakima River. The Catholic missionaries unwittingly had chosen a most
 unpropitious time for establishing these missions. Their beginning was
-to coincide with the disaster at “the place of the rye grass.”
+to coincide with the disaster at "the place of the rye grass."
 
 With the outbreak of violence at Waiilatpu in November 1847, strong
 anti-Catholic feeling flared up in Oregon that was to color many minds
@@ -1465,9 +1497,9 @@ return home.
 
 These drastic orders were the result of letters written by Smith, Gray,
 Rogers, and others, telling the Board of the many dissensions among the
-missionaries. Reports were sent to Boston about Spalding’s bitterness
+missionaries. Reports were sent to Boston about Spalding's bitterness
 toward the Whitmans, about the feud between Spalding and Gray, and about
-Smith’s constant faultfinding. They told, too, of the inability of the
+Smith's constant faultfinding. They told, too, of the inability of the
 missionaries to agree on policies toward the Indians and toward the
 independent Protestant missionaries who strayed into the Northwest. The
 letters recounted in painful detail the petty squabbles that had risen
@@ -1482,7 +1514,7 @@ missionaries first decided not to put the directive into effect until
 the Board should hear of the improvements that had been made. This would
 take time, for it was not unusual to wait a year or more for an answer
 to a letter. Deeply concerned over the matter, Whitman made the sudden
-decision that he should go at once to Boston to talk to the Board’s
+decision that he should go at once to Boston to talk to the Board's
 Prudential Committee. Reluctantly, the other missionaries agreed.
 
 On October 3 Whitman set out on his remarkable ride across the continent
@@ -1493,9 +1525,9 @@ because of rumors of Indian wars east of the Rockies, the tiny party
 crossed the Uintah Mountains to Fort Uintah, in Utah. The hazardous trip
 was made through deep snow and in bitter cold.
 
-    [Illustration:    WHITMAN’S RIDE AND THE OREGON TRAIL]
+    [Illustration:    WHITMAN'S RIDE AND THE OREGON TRAIL]
 
-    Whitman’s Ride, 1842
+    Whitman's Ride, 1842
     Oregon Trail, 1843
     Later cut-offs, Oregon Trail
     International Boundaries
@@ -1503,7 +1535,7 @@ was made through deep snow and in bitter cold.
   Liberty
   Independence
   {_Whitman_}
-    Bent’s Fort
+    Bent's Fort
     Taos
     Santa Fe
     Fort Uncompahgre
@@ -1524,14 +1556,14 @@ Following the Uintah, Colorado, and Gunnison Rivers, Whitman reached
 Fort Uncompahgre, Colo. From there, he set out for Taos in northern New
 Mexico, but had to return when his guide became lost. Severe winter
 storms continued to harass Whitman and Lovejoy, but by mid-December they
-reached Taos. On the trail to Bent’s Old Fort on the Arkansas River,
+reached Taos. On the trail to Bent's Old Fort on the Arkansas River,
 they learned that a group of mountain men were leaving the fort for St.
 Louis. Whitman pushed on ahead to catch this party before it left.
 
 Later when Lovejoy reached the fort, he discovered that Whitman had not
 yet arrived. Sending word to the mountain men to wait, Lovejoy turned
 back and found Whitman, who in his haste had become lost. Exhausted,
-Lovejoy stayed at Bent’s Old Fort until summer, when he joined Whitman
+Lovejoy stayed at Bent's Old Fort until summer, when he joined Whitman
 at Fort Laramie for the return trip to Oregon. On February 15 Whitman
 reached Westport, Mo. By March 9 he was in St. Louis, and about March 23
 he arrived in Washington, D.C.
@@ -1549,13 +1581,13 @@ an old friend. It is possible, too, that he was introduced to President
 John Tyler. This stopover in Washington caused many people years later
 to claim that Dr. Whitman had ridden East to persuade the government to
 save Oregon from the British, an argument not widely accepted today.
-Most historians agree that Whitman’s ride was to save the missions and
+Most historians agree that Whitman's ride was to save the missions and
 that the trip through Washington was secondary.
 
-The great weakness in the “save Oregon” theory was that it failed to
+The great weakness in the "save Oregon" theory was that it failed to
 distinguish between the reasons for the trip and the results that came
 of it. This theory also tended to link the causes of the journey with
-the results of all Whitman’s later efforts in Oregon, including
+the results of all Whitman's later efforts in Oregon, including
 assistance to the American emigrants and the development of Waiilatpu as
 an important way station on the Oregon Trail.
 
@@ -1565,18 +1597,18 @@ York the doctor boarded the _Narragansett_ and sailed to Boston, where
 he arrived March 30. Despite the rough seas of the Atlantic coast, this
 part of the extraordinary trip must have seemed calm to Whitman after
 the hundreds of miles on horseback through the winter snows of the Rocky
-Mountains and the western prairie—a journey of hardships rarely
+Mountains and the western prairie--a journey of hardships rarely
 paralleled in American history.
 
 In the office of the American Board Whitman was greeted with coldness,
 but the Board agreed to listen to his reports and arguments in favor of
-the Oregon field. In all respects, Whitman’s visit was a successful one.
+the Oregon field. In all respects, Whitman's visit was a successful one.
 The Board rescinded the unfavorable orders and agreed to send
 reinforcements to Oregon if suitable persons could be found.
 
 His task accomplished and a hasty visit paid to his home, Whitman began
 his return trip to Oregon in April 1843. At Independence, Mo., he joined
-that year’s migration of almost 1,000 people who were preparing to
+that year's migration of almost 1,000 people who were preparing to
 follow the Oregon Trail.
 
 
@@ -1624,7 +1656,7 @@ the rivers. He pushed on ahead to locate and mark the best routes.
 Whenever necessary, he treated the sick and the lame. Above all, he
 constantly urged the emigrants, some of whom were experiencing great
 discouragement, to keep on pushing westward so that they would reach
-Oregon before winter set in. At Fort Hall, the Hudson’s Bay Company
+Oregon before winter set in. At Fort Hall, the Hudson's Bay Company
 trader, Richard Grant, in good faith advised the emigrants to leave
 their wagons there. But Whitman insisted that the wagons could be taken
 to the Columbia. Catching his enthusiasm, the emigrants formally hired
@@ -1648,17 +1680,17 @@ to the Tshimakain mission to deliver Myra Eells of a son.
 
 By the time Whitman again returned to Waiilatpu, most of the emigrants
 had already stopped at the mission and had gone on to the Columbia. From
-the mission’s storerooms, the travelers had refurnished their supplies
+the mission's storerooms, the travelers had refurnished their supplies
 with wheat, corn, potatoes, beef, and pork raised at Waiilatpu.
 
-This migration of 1843 confirmed Marcus Whitman’s thoughts that his
+This migration of 1843 confirmed Marcus Whitman's thoughts that his
 mission was to be an important way station on the Oregon Trail. From
 then on, by the time emigrants reached the Walla Walla Valley each
 autumn many were sick, exhausted, or suffering from hunger. Marcus and
 Narcissa welcomed these people, whether they stopped overnight or stayed
 for the winter. The sick and injured were treated; produce from the
 fields was sold or given to the needy; worn-out horses and cattle were
-replaced with fresh ones from the mission’s herd. A few, not yet aware
+replaced with fresh ones from the mission's herd. A few, not yet aware
 of the high cost in the Far West of food, tools, and other things needed
 by the emigrants, criticized Whitman for being mercenary, but most
 visitors praised him for his aid. He turned no one away. Whitman felt it
@@ -1669,7 +1701,7 @@ during these years. In 1845 the majority of the emigrants by-passed the
 mission when a trail was opened down the Umatilla River past present-day
 Pendleton, Oreg. But each autumn many of the wagons still turned toward
 Waiilatpu for shelter. The famous as well as the unknown came to the
-mission: T. J. Farnham, emigrant leader; Capt. John Charles Frémont,
+mission: T. J. Farnham, emigrant leader; Capt. John Charles Fr�mont,
 army explorer; Paul Kane, artist; and John Sutter, of later California
 fame. These and hundreds more found comfort and aid at Waiilatpu.
 
@@ -1685,21 +1717,21 @@ troubles were breeding that would lead to tragedy.
 
 
 One of the results of the increasing number of emigrants on the Oregon
-Trail was the Cayuse’s conviction that their way of life was in danger.
+Trail was the Cayuse's conviction that their way of life was in danger.
 Although the emigrants, up to now, had continued on to the rich
 Willamette Valley, the Indians feared the day when the settlers would
 stop on Cayuse land. The Cayuse were quick to identify the Whitmans with
 the tide of settlers. Tom Hill, a Delaware Indian living among the
-nearby Nez Percé, contributed to this conviction. He told the Cayuse
+nearby Nez Perc�, contributed to this conviction. He told the Cayuse
 that before long the emigrants would be taking their lands. This, after
 all, was what had happened to his own people. He also said that the
 Whitmans were becoming rich from the sale of their produce to the
 travelers, and he argued that this wealth should be used in helping the
 Indians.
 
-The Cayuse’s concerns were intensified by the increasing interest Dr.
+The Cayuse's concerns were intensified by the increasing interest Dr.
 Whitman was showing in the emigrants. The doctor himself foresaw that
-the Indians’ mode of living would not be able to withstand the
+the Indians' mode of living would not be able to withstand the
 encroachments of the aggressive settlers for very long. It seemed
 obvious to him that the future of Oregon belonged to the whites. As
 Whitman turned his attention more and more to the problems of
@@ -1712,13 +1744,13 @@ this change. When they did, they lost their faith in the purpose of the
 mission and in the missionaries themselves.
 
 These growing resentments and suspicions were heightened in the autumn
-of 1847 when a measles epidemic spread from that year’s wagon train to
+of 1847 when a measles epidemic spread from that year's wagon train to
 Cayuse villages. This was a new disease for the Cayuse, and their bodies
 had little resistance to it. The effect of the disease in the lodges was
 disastrous. Within 2 months about half the Cayuse tribe died from
 measles or from the accompanying dysentery, though the Whitmans tried
 desperately to relieve the suffering. Panic stricken, the Cayuse lost
-completely their faith in Whitman’s medicine and turned to their
+completely their faith in Whitman's medicine and turned to their
 traditional treatments. A sweat bath, followed by a plunge into the cold
 river, practically assured their immediate death.
 
@@ -1736,17 +1768,17 @@ feet from the mission house, became a headquarters for the malcontents.
 In the minds of these Cayuse there was no question of their right to
 dispose of Dr. Whitman. One of the practices of the tribe for
 generations was that if a patient of a medicine man, or _tewat_, should
-die, the sick person’s relative could seek revenge by killing the
-_tewat_. Since measles was a white man’s disease and since Whitman, a
+die, the sick person's relative could seek revenge by killing the
+_tewat_. Since measles was a white man's disease and since Whitman, a
 white doctor, surely knew the cure, they believed that he was
 deliberately withholding that cure from them. Their people were dying,
 and revenge should be extracted from _tewat_ Whitman.
 
 The Whitmans had long been aware of the dangers that faced them because
-of the Indians’ attitude toward medicine. But, with their high sense of
+of the Indians' attitude toward medicine. But, with their high sense of
 obligation and responsibility, they had threaded their way through the
 maze of superstitions, sometimes at great risks, but always with
-success—until 1847.
+success--until 1847.
 
 Although the majority of the Cayuse had become concerned with the events
 of that autumn, only a few extremists took part in planning an attack on
@@ -1807,13 +1839,13 @@ led to the living room, claiming they wanted medicine. Dr. Whitman
 refused them entry but got some medicine from the closet under the
 stairway. Warning Mrs. Whitman to lock the door behind him, he went out
 into the kitchen. There, Tiloukaikt deliberately provoked the doctor
-into an argument. While the doctor’s attention was thus diverted,
+into an argument. While the doctor's attention was thus diverted,
 Tomahas suddenly attacked him from behind with a tomahawk. Whitman
 struggled to save himself but soon collapsed from the blows.
 
 Mary Ann Bridger, in the kitchen at this moment, dashed out the north
 door, ran around the building to the west entrance of the living room,
-and cried out in terror, “They have killed father!” John Sager, the
+and cried out in terror, "They have killed father!" John Sager, the
 oldest of the seven orphans, was also in the kitchen when the two
 Indians fell upon the doctor. John, recovering from the measles, had
 been busy preparing twine for new brooms. When the doctor was attacked,
@@ -1833,8 +1865,8 @@ the schoolroom when the attack began. With the other children, he hid in
 the rafters above the room. Before long he was discovered by Joe Lewis,
 and soon he too was shot and killed.
 
-Two others—Kimball who also was working on the beef, and Andrew Rodgers
-who was down by the river—were wounded; but both were able to reach the
+Two others--Kimball who also was working on the beef, and Andrew Rodgers
+who was down by the river--were wounded; but both were able to reach the
 mission house where Narcissa let them into the living room. A few
 minutes later, Mrs. Whitman, looking though the window in the east door,
 saw Joe Lewis in the yard. She called out to him asking if all this was
@@ -1885,9 +1917,9 @@ A few of the people at the mission made successful escapes. W. D.
 Canfield, one of those dressing the beef, managed to hide in the
 blacksmith shop until nightfall. Then he set out on foot for Lapwai, 110
 miles away. Though he had only a general knowledge of the trail and the
-direction, he reached Spalding’s mission on Saturday. But the most
+direction, he reached Spalding's mission on Saturday. But the most
 desperate escape was that of the Osborn family. Josiah Osborn, his wife,
-and their three children were living in the “Indian Room” of the mission
+and their three children were living in the "Indian Room" of the mission
 house. When the attack came, Osborn hid himself and his family under
 some loose boards in the floor and escaped detection throughout the
 afternoon and evening. Crouched under the floor, they could hear the
@@ -1902,7 +1934,7 @@ in the willows, Osborn continued on to the fort where he eventually was
 able to get a horse and a friendly Indian to help him. After some
 difficulty, he found his family where he had left them and took his wife
 and children on to Fort Walla Walla. The Osborns did not reach the
-security of the fort until Thursday—after 4 days in the damp cold of an
+security of the fort until Thursday--after 4 days in the damp cold of an
 Oregon autumn. Sick and afraid, all five of the family survived the
 ordeal and eventually reached the Willamette Valley.
 
@@ -1936,7 +1968,7 @@ severely. Three of the older girls were singled out by Indians who
 desired them for wives. Especially maltreated was Lorinda Bewley who was
 subjected to the unwanted attentions of Five Crows, a chief who had not
 participated in the attack and who had long enjoyed many favors from the
-Whitmans. During their captivity, two young girls died—Louise Sager and
+Whitmans. During their captivity, two young girls died--Louise Sager and
 Helen Mar Meek. Both these children had been critically ill with measles
 before the massacre, and it is possible they would have died even with
 Dr. Whitman present to care for them.
@@ -1946,8 +1978,8 @@ mass grave near the mission cemetery north of the mission house. On the
 same day, Father Brouillet, one of the priests whose arrival in the
 vicinity a few weeks earlier had so greatly disturbed Dr. Whitman,
 reached Waiilatpu. Horrified by the scene of death and destruction,
-Brouillet helped Stanfield prepare the dead. Rendering “to those
-unfortunate victims the last service in my power to offer them,”
+Brouillet helped Stanfield prepare the dead. Rendering "to those
+unfortunate victims the last service in my power to offer them,"
 Brouillet officiated at the burial. A few days later wild animals
 disturbed the shallow grave, and it had to be covered again. In March
 1848 the remains, which again had been disturbed by wolves, were placed
@@ -1963,7 +1995,7 @@ were exchanged for 62 blankets, 63 shirts, 12 guns, 600 loads of
 ammunition, 37 pounds of tobacco, and 12 flints.
 
 None of the other American Board missions were attacked. On January 1,
-1848, the Nez Percé escorted the Spaldings to Fort Walla Walla, where
+1848, the Nez Perc� escorted the Spaldings to Fort Walla Walla, where
 they joined the 49 Waiilatpu survivors for the journey to Willamette.
 The Eellses and Walkers continued to live among the Spokan until the
 following spring when they, too, left for Oregon City. Thus the
@@ -1977,7 +2009,7 @@ end of February the volunteer soldiers reached the Walla Walla Valley.
 The Cayuse fled to the mountains north of the Snake River, but the
 disorganized and poorly disciplined troops did not pursue them far.
 These volunteers stayed at Waiilatpu until early summer. Then, leaving
-behind a guard of 50 men at the mission—by now called Fort Waters—the
+behind a guard of 50 men at the mission--by now called Fort Waters--the
 rest returned home.
 
 After 2 years of wandering and hardships, the Cayuse gave up five of
@@ -1985,7 +2017,7 @@ their men in an effort to make peace with the whites. These five were
 arrested for murder and tried by jury in Oregon City. All five were
 found guilty (although one of them probably took no part in the
 massacre) and were hanged in 1850. There is bitter irony in the fact
-that the hangman was Joe Meek, the father of Helen Mar. The Indians’
+that the hangman was Joe Meek, the father of Helen Mar. The Indians'
 problems were not solved by the hanging. In fact, the time of troubles
 was just starting. For the next generation intermittent Indian wars
 plagued the Pacific Northwest; but the Cayuse were never again a source
@@ -2001,7 +2033,7 @@ serve the Pacific Northwest and their country after death.
 Alive, they had striven to prepare the Cayuse for the civilization that
 was sure to engulf them. When the emigrants did arrive, the Whitman
 mission became a haven in the wilderness for these weary wanderers. The
-Whitmans’ deaths had the immediate result of creating the first formal
+Whitmans' deaths had the immediate result of creating the first formal
 American territorial government west of the Rocky Mountains. Today, the
 story of the Whitmans serves to inspire all people who would pursue the
 way of high principles and ideals. Events at Waiilatpu were climaxed
@@ -2028,10 +2060,10 @@ continued to be farmed by a number of owners. In 1897, on the 50th
 anniversary of the massacre, Mr. and Mrs. Marion Willard Swegle donated
 about 8 acres, including the site of the Great Grave and the Memorial
 Shaft Hill, to a group of citizens interested in perpetuating that
-historic spot. As the 100th anniversary of the Whitmans’ arrival at
+historic spot. As the 100th anniversary of the Whitmans' arrival at
 Waiilatpu approached, public-spirited citizens initiated efforts to
 acquire and preserve the land on which the mission itself had been
-located. In 1936 the Whitman Centennial Co. acquired 37½ additional
+located. In 1936 the Whitman Centennial Co. acquired 37� additional
 acres of land, which included the building sites. These two tracts were
 donated to the Nation, and on January 20, 1940, Whitman National
 Monument was formally established.
@@ -2050,7 +2082,7 @@ area to Whitman Mission National Historic Site.
 
 
     [Illustration: Archeologists uncovered the ruins of the mission
-    buildings in the 1940’s. The rectangle of packed earth with the two
+    buildings in the 1940's. The rectangle of packed earth with the two
     large pits is the base of the large hearth in the mission house
     kitchen. Narcissa Whitman cooked on this hearth for only a few years
     before it was replaced with a regular cookstove.]
@@ -2061,21 +2093,21 @@ area to Whitman Mission National Historic Site.
     [Illustration: Among the thousands of artifacts discovered were
     these two buckles that might have been used for harnesses or belts.]
 
-    [Illustration: A millstone emerges from mud at the site of Whitman’s
+    [Illustration: A millstone emerges from mud at the site of Whitman's
     grist mill.]
 
     [Illustration: A useful everyday object was this fine-tooth comb,
     found in the ruins. The missionaries had to be constantly on the
-    watch for lice, especially in their children’s hair. In a letter
-    home, Narcissa asked that some of these “louse traps” be sent.]
+    watch for lice, especially in their children's hair. In a letter
+    home, Narcissa asked that some of these "louse traps" be sent.]
 
     [Illustration: The site of the blacksmith shop was excavated in
     1961-62.]
 
-    [Illustration: Concrete blocks outline the site of Gray’s house,
+    [Illustration: Concrete blocks outline the site of Gray's house,
     later called the emigrant house.]
 
-    [Illustration: AN ARTIST’S CONCEPTION OF WHITMAN MISSION
+    [Illustration: AN ARTIST'S CONCEPTION OF WHITMAN MISSION
               based on archeological and historical investigations]
 
     [Illustration: WHITMAN MISSION NATIONAL HISTORIC SITE]
@@ -2126,19 +2158,19 @@ visitor center, is in immediate charge.
     [Illustration: (uncaptioned)]
 
 
-_America’s Natural Resources_
+_America's Natural Resources_
 
-Created in 1849, the Department of the Interior—America’s Department of
-Natural Resources—is concerned with the management, conservation, and
-development of the Nation’s water, wildlife, mineral, forest, and park
+Created in 1849, the Department of the Interior--America's Department of
+Natural Resources--is concerned with the management, conservation, and
+development of the Nation's water, wildlife, mineral, forest, and park
 and recreational resources. It also has major responsibilities for
 Indian and territorial affairs.
 
-As the Nation’s principal conservation agency, the Department works to
+As the Nation's principal conservation agency, the Department works to
 assure that nonrenewable resources are developed and used wisely, that
 park and recreational resources are conserved, and that renewable
 resources make their full contribution to the progress, prosperity, and
-security of the United States—now and in the future.
+security of the United States--now and in the future.
 
 
 _Related Areas_
@@ -2178,10 +2210,10 @@ Drury, Clifford M., _Marcus Whitman, M.D.: Pioneer and Martyr_. Caxton
 Elliott, T. C., _The Coming of the White Women_. Oregon Historical
       Society, Portland, 1937.
 
-Garth, Thomas R., “The Archeological Excavation of Waiilatpu Mission.”
+Garth, Thomas R., "The Archeological Excavation of Waiilatpu Mission."
       _Oregon Historical Quarterly_, XLIX, 117-36 (June 1948).
 
-Haines, Francis, _The Nez Percés: Tribesmen of the Columbia Plateau_.
+Haines, Francis, _The Nez Perc�s: Tribesmen of the Columbia Plateau_.
       University of Oklahoma Press, Norman, 1955.
 
 Hulbert, Archer B. and Dorothy P., eds., _Marcus Whitman, Crusader_. 3
@@ -2196,7 +2228,7 @@ Lavender, David, _Land of Giants: The Drive to the Pacific Northwest,
       1750-1950_. (Mainstream of American Series, Lewis Gannett, ed.)
       Doubleday & Company, Garden City, N.Y., 1958.
 
-                       ★ U.S. GOVERNMENT PRINTING OFFICE: 1964 O-747-534
+                       * U.S. GOVERNMENT PRINTING OFFICE: 1964 O-747-534
 
 
 NATIONAL PARK SERVICE HISTORICAL HANDBOOK SERIES
@@ -2247,15 +2279,15 @@ WASHINGTON, D.C., 20402.
 
 
 
-                          Transcriber’s Notes
+                          Transcriber's Notes
 
 
-—Silently corrected a few typos.
+--Silently corrected a few typos.
 
-—Retained publication information from the printed edition: this eBook
+--Retained publication information from the printed edition: this eBook
   is public-domain in the country of publication.
 
-—In the text versions only, text in italics is delimited by
+--In the text versions only, text in italics is delimited by
   _underscores_.
 
 
@@ -2267,4 +2299,365 @@ WASHINGTON, D.C., 20402.
 End of the Project Gutenberg EBook of Whitman Mission National Historic Site, by 
 Erwin N. Thompson
 
-*** END OF THE PROJECT GUTENBERG EBOOK 60756 ***
+*** END OF THIS PROJECT GUTENBERG EBOOK WHITMAN MISSION NATIONAL HISTORIC SITE ***
+
+***** This file should be named 60756-8.txt or 60756-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/6/0/7/5/60756/
+
+Produced by Stephen Hutcheson and the Online Distributed
+Proofreading Team at http://www.pgdp.net
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
